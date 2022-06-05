@@ -1,0 +1,7 @@
+#! /bin/bash
+
+chown -R domashka:domashkagroup /etc/domashka
+chmod g+r /etc/domashka
+chmod u+rwx /etc/domashka
+chmod o-rwx /etc/domashka
+exit 0

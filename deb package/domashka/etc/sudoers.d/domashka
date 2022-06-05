@@ -1,0 +1,1 @@
+domashka ALL=(ALL) /bin/systemctl restart ntp

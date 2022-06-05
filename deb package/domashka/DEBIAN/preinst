@@ -1,0 +1,7 @@
+#! /bin/bash
+
+adduser --system domashka --group domashkagroup  || true
+
+mkdir -p /var/log/domashka || true
+chown domashka /var/log/domashka
+exit 0

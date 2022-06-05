@@ -1,0 +1,6 @@
+Package: domashka
+Version: 0.1-1
+Architecture: all
+Maintainer: Kirill Denisov <kirill.denisov700@gmail.com>
+Description: A program that gives me points.
+ Points i need for passing linux vk course.
